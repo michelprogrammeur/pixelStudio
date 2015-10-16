@@ -56,6 +56,12 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.pixel {
+    position: absolute;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
 
 
 
